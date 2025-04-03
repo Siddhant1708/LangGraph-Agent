@@ -28,7 +28,7 @@ python backend.py
 
 ## Phase 3: Setup Frontend with Streamlit
 ```
-python frontend.py
+streamlit frontend.py
 ```
 
 ## IMPORTANT
